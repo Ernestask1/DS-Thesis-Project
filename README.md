@@ -1,5 +1,7 @@
 # DS-Thesis-Project
 
+## Overview
+
 The objective of this dissertation is to assess whether urban environments
 have a higher prevalence of antidepressant prescriptions compared to rural
 environments. This research is carried out using publicly available 2014 National Health Service (NHS) prescription data, National Postcode Lookup(NPL) and 2011 Output Area Classification (OAC) data for analysis. 
